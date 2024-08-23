@@ -9,6 +9,8 @@ public class clase10_matemáticas {
         int resultado = Math.round(num1);
         System.out.println(resultado);*/
 
+        //comentario
+
         double num1 = 5.85;
         int resultado = (int) Math.round(num1);
         System.out.println(resultado);

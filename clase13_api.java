@@ -18,6 +18,8 @@ public class clase13_api {
         System.out.println(var);
 
         myScanner.close();
+
+        //esta es una segunda modificación
         
     }
 }

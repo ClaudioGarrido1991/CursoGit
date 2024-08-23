@@ -9,7 +9,7 @@ public class clase13_api {
     
     public static void main(String[] args) {
 
-        String nombre; //no hay problemas en utilizar la clase String porque esta incluida en Java.lang;
+        String nombre; //no hay problemas en utilizar l|a clase String porque esta incluida en Java.lang;
         nombre = "Claudio";
         System.out.println(nombre);
 

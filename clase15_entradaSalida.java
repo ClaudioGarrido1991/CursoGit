@@ -3,7 +3,7 @@ import javax.swing.JOptionPane;
 public class clase15_entradaSalida {
     public static void main(String[] args) {
         
-
+//comentario
 
     String nombre = JOptionPane.showInputDialog("Introduzca su nombre: ");
     String edad = JOptionPane.showInputDialog("Introduzca su edad: ");
